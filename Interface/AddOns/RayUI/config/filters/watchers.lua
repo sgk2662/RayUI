@@ -794,6 +794,8 @@ R["Watcher"] = {
 
                 --聖光信標
                 { spellID = 53563, unitId = "target", caster = "player", filter = "BUFF" },
+                --信仰道标
+                { spellID = 156910, unitId = "target", caster = "player", filter = "BUFF" },
                 --纯净之手
                 { spellID = 114039, unitId = "target", caster = "player", filter = "BUFF" },
                 --永恒之火
@@ -831,6 +833,8 @@ R["Watcher"] = {
                 { spellID = 59578, unitId = "player", caster = "player", filter = "BUFF" },
                 --復仇之怒
                 { spellID = 31884, unitId = "player", caster = "player", filter = "BUFF" },
+                --最终审判
+                { spellID = 157048, unitId = "player", caster = "player", filter = "BUFF" },
                 --精通光環
                 { spellID = 31821, unitId = "player", caster = "player", filter = "BUFF" },
                 --圣盾術
@@ -868,6 +872,10 @@ R["Watcher"] = {
                 { spellID = 20170, unitId = "target", caster = "player", filter = "DEBUFF" },
                 --問罪
                 { spellID = 2812, unitId = "target", caster = "player", filter = "DEBUFF" },
+                --永恒之火
+                { spellID = 156322, unitId = "target", caster = "player", filter = "BUFF" },
+		--光辉治疗
+                { spellID = 86273, unitId = "target", caster = "player", filter = "BUFF" },
             },
             {
                 name = "焦点buff&debuff",

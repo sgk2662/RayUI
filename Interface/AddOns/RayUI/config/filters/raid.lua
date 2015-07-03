@@ -39,6 +39,7 @@ G.Raid.AuraWatch = {
 	},
 	PALADIN = {
 		ClassBuff(53563, "TOPRIGHT", {0.7, 0.3, 0.7}),	 -- Beacon of Light
+		ClassBuff(156910, "TOPRIGHT", {0.7, 0.3, 0.7}),	 -- 信仰道标
 		ClassBuff(1022, "BOTTOMRIGHT", {0.2, 0.2, 1}, true),	-- Hand of Protection
 		ClassBuff(1044, "BOTTOMRIGHT", {0.89, 0.45, 0}, true),	-- Hand of Freedom
 		ClassBuff(1038, "BOTTOMRIGHT", {0.93, 0.75, 0}, true),	-- Hand of Salvation

@@ -2077,6 +2077,13 @@ R["Watcher"] = {
                 --法師T16, 冰凍意念
                 { spellID = 146557, unitId = "player", caster = "all", filter = "BUFF" },
                 { spellID = 145252, unitId = "player", caster = "all", filter = "BUFF" },
+                
+                --HFC职业饰品
+                -- 辩护圣契
+                { spellID = 185100, unitId = "player", caster = "all", filter = "BUFF" },
+                { spellID = 185102, unitId = "player", caster = "all", filter = "BUFF" },
+                -- 灭世者的决意
+                { spellID = 124523, unitId = "player", caster = "all", filter = "BUFF" },
             },
             {
                 name = "PVE/PVP玩家buff&debuff",

@@ -84,7 +84,7 @@ R["Watcher"] = {
                 --森林之魂
                 { spellID = 114108, unitId = "player", caster = "player", filter = "BUFF" },
                 --星殞術
-                { spellID = 48505, unitId = "player", caster = "player", filter = "BUFF" },
+                { spellID = 184989, unitId = "player", caster = "player", filter = "BUFF" },
                 --星穹大連線
                 { spellID = 112071, unitId = "player", caster = "player", filter = "BUFF" },
                 --化身:艾露恩之眷
@@ -118,7 +118,7 @@ R["Watcher"] = {
                 --野蛮防御
                 { spellID = 132402, unitId = "player", caster = "player", filter = "BUFF" },
                 --落日余晖
-                { spellID = 155592, unitId = "player", caster = "player", filter = "BUFF" },
+                { spellID = 185002, unitId = "player", caster = "player", filter = "BUFF" },
             },
             {
                 name = "目标重要buff&debuff",

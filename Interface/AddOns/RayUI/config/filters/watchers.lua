@@ -1755,8 +1755,14 @@ R["Watcher"] = {
                 { spellID = 126533, unitId = "player", caster = "all", filter = "BUFF" },
                 -- 玉质军阀俑 (精通, 使用)
                 { spellID = 126597, unitId = "player", caster = "all", filter = "BUFF" },
+                -- 安苏的诅咒之羽 (精通, 触发)
+                { spellID = 183931, unitId = "player", caster = "all", filter = "BUFF" },
 
                 -- 物理敏捷DPS
+                -- 灵魂之匣
+                { spellID = 184293, unitId = "player", caster = "all", filter = "BUFF" },
+                -- 恶毒熏炉 (敏捷, 触发)
+                { spellID = 183926, unitId = "player", caster = "all", filter = "BUFF" },
                 -- 黑心执行者勋章
                 { spellID = 176984, unitId = "player", caster = "all", filter = "BUFF" },
                 -- 双面幸运金币
@@ -1805,6 +1811,8 @@ R["Watcher"] = {
                 { spellID = 126707, unitId = "player", caster = "all", filter = "BUFF" },
 
                 -- 物理力量DPS
+                -- 无餍之饥 (力量, 触发)
+                { spellID = 183941, unitId = "player", caster = "all", filter = "BUFF" },
                 -- 活体火山微粒
                 { spellID = 176974, unitId = "player", caster = "all", filter = "BUFF" },
                 -- 齐亚诺斯的剑鞘
@@ -1865,6 +1873,8 @@ R["Watcher"] = {
                 { spellID = 126705, unitId = "player", caster = "all", filter = "BUFF" },
 
                 -- 法系DPS
+                -- 亵渎影月徽记 (智力, 触发)
+                { spellID = 183924, unitId = "player", caster = "all", filter = "BUFF" },
                 -- 動亂聚焦水晶
                 { spellID = 176882, unitId = "player", caster = "all", filter = "BUFF" },
                 -- 狂怒之心护符
@@ -1903,6 +1913,8 @@ R["Watcher"] = {
                 { spellID = 126577, unitId = "player", caster = "all", filter = "BUFF" },
 
                 -- 治療
+                -- 直觉之赐 (爆击, 使用)
+                { spellID = 183929, unitId = "player", caster = "all", filter = "BUFF" },
                 -- 完美的活性蘑菇
                 { spellID = 176978, unitId = "player", caster = "all", filter = "BUFF" },
                 -- 腐蚀治疗徽章

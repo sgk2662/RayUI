@@ -399,6 +399,12 @@ R["Watcher"] = {
                 { spellID = 87023, unitId = "player", caster = "player", filter = "DEBUFF" },
                 --強效隱形
                 { spellID = 113862, unitId = "player", caster = "player", filter = "BUFF" },
+                --隐没
+                { spellID = 157913, unitId = "player", caster = "player", filter = "BUFF" },
+                --浮冰
+                { spellID = 108839, unitId = "player", caster = "player", filter = "BUFF" },
+                --炽热疾速
+                { spellID = 108843, unitId = "player", caster = "player", filter = "BUFF" },
                 --冰霜炸彈
                 { spellID = 112948, filter = "CD" },
 
